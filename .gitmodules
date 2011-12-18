@@ -10,3 +10,9 @@
 [submodule "bundle/phpcomplete"]
 	path = bundle/phpcomplete
 	url = https://github.com/shawncplus/phpcomplete.vim.git
+[submodule "vim-irblack"]
+	path = vim-irblack
+	url = https://github.com/wgibbs/vim-irblack.git
+[submodule "bundle/irblack"]
+	path = bundle/irblack
+	url = https://github.com/wgibbs/vim-irblack.git
