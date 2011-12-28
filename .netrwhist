@@ -1,8 +1,4 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =6
-let g:netrw_dirhist_1='/home/xatter/citymaps/mapping_tools_dev'
-let g:netrw_dirhist_2='/home/xatter/citymaps/mapping_tools_dev/web'
-let g:netrw_dirhist_3='/home/xatter/citymaps/mapping_tools_dev'
-let g:netrw_dirhist_4='/home/xatter/citymaps/mapping_tools_dev/lib'
-let g:netrw_dirhist_5='/home/xatter/citymaps/mapping_tools_dev/lib/citymaps'
-let g:netrw_dirhist_6='/var/www/pureopendiscussion'
+let g:netrw_dirhist_cnt =2
+let g:netrw_dirhist_1='/home/xatter/citymaps/migratedb'
+let g:netrw_dirhist_2='/home/xatter/citymaps/migratedb/test'
