@@ -6,19 +6,19 @@
 	url = http://github.com/altercation/vim-colors-solarized.git
 [submodule "bundle/taglist"]
 	path = bundle/taglist
-	url = https://github.com/jcf/tag_list.vim.git
+	url = http://github.com/jcf/tag_list.vim.git
 [submodule "bundle/phpcomplete"]
 	path = bundle/phpcomplete
-	url = https://github.com/shawncplus/phpcomplete.vim.git
+	url = http://github.com/shawncplus/phpcomplete.vim.git
 [submodule "vim-irblack"]
 	path = vim-irblack
-	url = https://github.com/wgibbs/vim-irblack.git
+	url = http://github.com/wgibbs/vim-irblack.git
 [submodule "bundle/irblack"]
 	path = bundle/irblack
-	url = https://github.com/wgibbs/vim-irblack.git
+	url = http://github.com/wgibbs/vim-irblack.git
 [submodule "bundle/autocomplpop"]
 	path = bundle/autocomplpop
-	url = https://github.com/vim-scripts/AutoComplPop.git
+	url = http://github.com/vim-scripts/AutoComplPop.git
 [submodule "bundle/command-t"]
 	path = bundle/command-t
 	url = git://git.wincent.com/command-t.git
