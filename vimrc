@@ -50,12 +50,14 @@ set smartcase " Ignore case when searching lowercase
 
 " Colors *****************************************************************
 syntax on
-"let g:solarized_termcolors=256
+let g:solarized_termcolors=256
 
 if has('gui_running')
   set background=light
+  color ir_black
 else
   set background=dark
+  color default
 endif
 
 if $TERM =~ '^xterm'
@@ -70,8 +72,6 @@ else
   set t_Co=16
 endif
 
-"colorscheme ir_black
-colorscheme solarized 
 
 " Status Line ************************************************************
 set showcmd
